@@ -8,9 +8,13 @@ I developed this **Tic-Tac-Toe web application** as part of my portfolio to show
 # Features
 
 **Single Player Mode**: Play against an AI that makes random or strategic moves.
+
 **Two Player Mode**: A local multiplayer option where two players can take turns.
+
 **Winning Detection**: Automatically detects and displays the winner or if the game ends in a draw.
+
 **Responsive Design**: Optimized for both desktop and mobile screens.
+
 **Animations**: Smooth CSS animations make the game feel lively and engaging.
 
 # Technologies Used
